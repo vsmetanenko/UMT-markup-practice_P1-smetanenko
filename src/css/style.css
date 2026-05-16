@@ -1,0 +1,13 @@
+@import "./variables.css";
+@import "./base.css";
+
+@import "./header.css";
+@import "./main.css";
+@import "./hero.css";
+@import "./top-selling.css";
+@import "./bouquets.css";
+@import "./reviews.css";
+@import "./contacts.css"; 
+@import "./footer.css";
+
+@import "./to-top.css";
